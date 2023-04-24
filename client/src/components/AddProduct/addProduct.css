@@ -1,0 +1,7 @@
+.invalid-input {
+  color: red;
+  display: block;
+  margin-left: 20px;
+  margin-top: -20px;
+  font-style: italic;
+}

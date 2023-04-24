@@ -1,0 +1,49 @@
+.product-list {
+  /* text-align: center; */
+  margin: auto;
+  margin-top: 50px;
+  max-width: 90%;
+}
+
+.product-list h3 {
+  text-align: center;
+}
+
+.thead-dark {
+  background-color: rgb(30, 100, 127);
+  color: aliceblue;
+  text-align: center;
+}
+
+tbody tr td:last-child {
+  text-align: center;
+}
+
+
+.delete-button, 
+.update-button {
+  background-color: transparent;
+  border: none;
+  padding: 0;
+  color: rgb(247, 68, 19);
+}
+.delete-button .bi, 
+.update-button .bi {
+  display: inline-block;
+  margin: 0px 10px;
+}
+
+.update-button {
+  color: rgb(30, 150, 230)
+}
+
+.search-input-box {
+  width: 400px;
+  margin: 20px;
+  height: 40px;
+  padding-left: 20px;
+}
+
+tr>th {
+  text-align: center;
+}

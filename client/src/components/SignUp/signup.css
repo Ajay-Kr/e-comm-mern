@@ -1,0 +1,33 @@
+.input-box {
+  margin-left: 30px;
+  display: block;
+  margin: 25px;
+  padding: 7px;
+  width: 300px;
+  border: 1px solid rgb(48, 155, 198);
+  outline: none;
+}
+
+.input-box::placeholder {
+  font-style: italic;
+}
+
+.register,
+.product {
+  margin-left: 30%;
+}
+
+.signup-button,
+.login-button,
+.add-button {
+  width: 150px;
+  height: 40px;
+  margin: 25px;
+  padding: 7px;
+  background-color: rgb(30, 100, 127);
+  border: 1px solid;
+  cursor: pointer;
+  color: aliceblue;
+  border-radius: 5px;
+  border: none;
+}
